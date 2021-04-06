@@ -1,5 +1,5 @@
 # Analysis-of-Top-American-Colleges
-![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
+![Kaggle](https://img.shields.io/badge/Dataset-Forbes-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
 ## Overview
 - The package contains a Jupyter Python Notebook file where I perform anaylysis on the top ranking colleges in the US and try to determine the effect of rank on factors such as Costs, Admittance rate, Alumni salaries.
 - The analysis can help with making college decisions for students looking to attend a school, particularly in the US
