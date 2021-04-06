@@ -1,3 +1,12 @@
 # Analysis-of-Top-American-Colleges
-The package contains a Jupyter Python Notebook file where I perform anaylysis on the top ranking colleges in the US and try to determine the effect of rank on factors such as Costs, Admittance rate, Alumni salaries.
-It also contains dataset from Forbes.
+## Overview
+- The package contains a Jupyter Python Notebook file where I perform anaylysis on the top ranking colleges in the US and try to determine the effect of rank on factors such as Costs, Admittance rate, Alumni salaries.
+- The analysis can help with making college decisions for students looking to attend a school, particularly in the US
+- The model uses simple Seaborn visualisations to show the relationships
+
+## Notes
+- This notebook takes you through the process of performing an analysis on college ranking data to determine factors influenced by a college ranking.
+
+## Data
+- The data set contains the rankings of 650 Unites States colleges along with various other statistics pertaining to each school.Data collected from https://www.forbes.com/top-colleges/#1208425d1987. Source was edited by Justin Conklin, Carter Coudriet, and Caroline Howard,
+
