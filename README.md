@@ -7,6 +7,11 @@
 ## Notes
 - This notebook takes you through the process of performing an analysis on college ranking data to determine factors influenced by a college ranking.
 
+![rank and acceptance rate](https://github.com/claireon/Analysis-of-Top-American-Colleges/blob/main/Capture.JPG)
+![rank and annual cost](https://github.com/claireon/Analysis-of-Top-American-Colleges/blob/main/Capture2.JPG)
+![rank and alumni salary](https://github.com/claireon/Analysis-of-Top-American-Colleges/blob/main/Capture3.JPG)
+![rank and grant aid](https://github.com/claireon/Analysis-of-Top-American-Colleges/blob/main/Capture4.JPG)
+
 ## Data
 - The data set contains the rankings of 650 Unites States colleges along with various other statistics pertaining to each school.Data collected from https://www.forbes.com/top-colleges/#1208425d1987. Source was edited by Justin Conklin, Carter Coudriet, and Caroline Howard,
 
